@@ -1,0 +1,1 @@
+ALTER TABLE ${Schema1}.SAMPLE_TABLE_2 ADD COLUMN thirdName string;
